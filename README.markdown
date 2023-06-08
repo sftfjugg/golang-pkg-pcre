@@ -1,3 +1,5 @@
+Linux 下有一个 C 实现的 PCRE 库，这个第三方包正是将 PCRE 库应用到 Golang 中。CentOS 下需要先安装 pcre-devel 这个包。
+
 golang-pkg-pcre
 ===============
 
